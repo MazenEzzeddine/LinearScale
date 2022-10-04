@@ -151,8 +151,8 @@ def laglinearnonskewed():
 
     # #ax2.plot(t, replicas, '--r',  label='replicas')
     #
-    # ax1.set_xlabel('Time (sec)')
-    # ax1.set_ylabel('Event Arrivals Rate')
+    ax1.set_xlabel('Time (sec)')
+    ax1.set_ylabel('Event Lag')
     # #ax2.spines['left'].set_color('blue')
     # #ax2.spines['right'].set_color('red')
     #
